@@ -42,7 +42,6 @@ mbangkannya secara opensource, semoga bermanfaat :)
 Contributor :
 -----------------------
 - M. Alfiyan Syamsuddin
--
 
 Author
 -----------------------
